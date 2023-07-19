@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1> Hello, I'm Hector! <br/><a href="https://github.com/hgallocodes/hgallocodes"> Data Science</a>, <a href="https://www.linkedin.com/in/hector-gallo/"> Career</a>
 
-<!--
-**hgallocodes/hgallocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Science & Analysis Projects: </h2>
 
-Here are some ideas to get you started:
+- <b> First Project </b>
+  - [First Project](https://github.com/COGS118A/Group018-Sp22/tree/main)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Explaining First Video] (https://)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Hector Gallo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/hector-gallo/
