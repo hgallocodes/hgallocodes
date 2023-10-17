@@ -1,4 +1,4 @@
-<h1> Hello, I'm Hector! <br/>< <a href="https://www.linkedin.com/in/hector-gallo/"> Career</a>
+<h1> Hello, I'm Hector! <br/> <a href="https://www.linkedin.com/in/hector-gallo/"> Career</a>
 
 <h2>👨‍💻 Data Science & Analysis Projects: </h2>
 
