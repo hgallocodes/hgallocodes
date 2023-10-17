@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science & Analysis Projects:</h2>
 
-<h3> - Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market</h3>
+<h3>- Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market</h3>
 <img align="left" alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
