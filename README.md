@@ -6,6 +6,8 @@
 <img align="left" alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Tools | SciKit Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="Tools | Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
 <br>
 <a href="https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb">Link to Project</a>
 
