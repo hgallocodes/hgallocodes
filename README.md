@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science & Analysis Projects: </h2>
 
-- <b> Using K-Nearest Neighbors model to predict soccer players' values in the market </b>
+- <b> Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market </b>
   - [Link to Project](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)
  
 - <b> Using Linear Regression model to answer Data Science question: Is there a statistically significant relationship between COVID-19 cases and air quality measures such as the levels of NO2 in the atmosphere and AQI (Air Quality Index) in San Diego county during the years 2020 and 2021?</b>
