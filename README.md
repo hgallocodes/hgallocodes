@@ -11,8 +11,8 @@
 <br>
 <a href="https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb">Link to Project</a>
 
-- <b> Using Linear Regression Model and Statistical Methods to answer Data Science Hypothesis </b>
-  - [Link to Project](https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb)
+<h4> Using Linear Regression Model and Statistical Methods to answer Data Science Hypothesis </h4>
+<a href="https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb">Link to Project</a>
 
 <h2> 🤳 Connect with me:</h2>
 
