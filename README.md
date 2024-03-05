@@ -13,9 +13,11 @@
 <a href="https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb">Link to Project</a>
 
 
-<h3> Using Linear Regression Model and Statistical Methods to answer Data Science Hypothesis </h3>
+<h3>Using Linear Regression Model and Statistical Methods to answer Data Science Hypothesis</h3>
+<p>
+  <!-- Add tool icons here with appropriate alt text and width if required -->
+</p>
 <a href="https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb">Link to Project</a>
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Hector Gallo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
