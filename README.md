@@ -1,6 +1,6 @@
 <h1>Hello, I'm Hector!<br/><a href="https://www.linkedin.com/in/hector-gallo/">More on my Career</a></h1>
 
-<h2>👨‍💻 Data Science & Analysis Projects:</h2>
+<h2>👨‍💻 Machine Learning Projects:</h2>
 
 ### Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market
 - <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
