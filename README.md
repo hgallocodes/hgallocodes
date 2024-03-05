@@ -9,7 +9,7 @@
 - <img alt="Tools | SciKit Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> SciKit Learn
 - <img alt="Tools | Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> Matplotlib
 
-[Link to Project](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)
+[Check out the project!](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)
 
 
 
