@@ -11,14 +11,12 @@
 
 <h2>📊 Data Science Projects:</h2>
 
-### Using Linear Regression Model and Statistical Methods to answer Data Science Hypothesis
+### [Using Linear Regression Model and Statistical Methods to answer Data Science Hypothesis] (https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb)
 - <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
 - <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python
 - <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> Numpy
 - <img alt="Tools | SciKit Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> SciKit Learn
 - <img alt="Tools | Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> Matplotlib
-
-[Check out this project!](https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb)
 
 <h2> 🤳 Connect with me:</h2>
 
