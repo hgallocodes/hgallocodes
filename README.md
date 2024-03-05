@@ -12,7 +12,7 @@
 [Check out the project!](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)
 
 
-
+<h2>📊 Data Science Projects:</h2>
 
 <h3>Using Linear Regression Model and Statistical Methods to answer Data Science Hypothesis</h3>
 <p>
