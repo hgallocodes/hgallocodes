@@ -9,8 +9,6 @@
 - <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> SciKit Learn
 - <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> Matplotlib
 
-<h4> </h4>
-
 ### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
 - <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
@@ -28,8 +26,6 @@
 - <img alt="Tools | SciKit Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> SciKit Learn
 - <img alt="Tools | Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> Matplotlib
 
----
-
 ### [Does Colder Weather Lead to Longer Power Outages?](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/)
 - <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
@@ -37,8 +33,6 @@
 - <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> Numpy
 - <img alt="Tools | SciKit Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> SciKit Learn
 - <img alt="Tools | Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> Matplotlib
-
----
 
 ### [Covid Cases Per Population By Country](https://github.com/Dsilva019/DSC106-Project3)
 ##### [  Visit the Webpage Here!](https://dsilva019.github.io/DSC106-Project3/)
