@@ -33,7 +33,7 @@
 
 ### [Covid Cases Per Population By Country](https://github.com/Dsilva019/DSC106-Project3)
 ##### [  Visit the Webpage Here!](https://dsilva019.github.io/DSC106-Project3/)
-- <img alt="Tools | JavaScript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> JavaScript
+- <img alt="Tools | JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> JavaScript
 - <img alt="Tools | D3" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> D3
 - <img alt="Tools | Svelte" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> Svelte
 
