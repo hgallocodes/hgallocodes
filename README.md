@@ -22,7 +22,6 @@
 - <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
 - <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python
 - <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> Numpy
-- <img alt="Tools | SciKit Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> SciKit Learn
 - <img alt="Tools | Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> Matplotlib
 
 ### [Does Colder Weather Lead to Longer Power Outages?](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
