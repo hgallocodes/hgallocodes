@@ -2,7 +2,7 @@
 
 <h2>🤖 Machine Learning Projects:</h2>
 
----
+------------
 
 ### [Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)
 - <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
