@@ -9,6 +9,7 @@
 - Optimized KNN-algorithm by testing different K values in order to obtain the most accurate predictions possible using Sci-Kit Learn.
 - Compared predicted values with true values and determined which players were being underpaid or overpaid.
 
+---
 
 ### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
@@ -24,12 +25,16 @@
 - Cleaned and merged Environmental Protection Agency (EPA) datasets from 2016 to 2021 (15,000 observations and 4 features) using Python and JupyterNotebook.
 - Created line plots that would portray trends of NO2 over time and performed statistical analysis including linear regression on these datasets using Pandas, Matplotlib, and Statsmodel.
 
+---
+
 ### [Does Colder Weather Lead to Longer Power Outages?](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> 
 - Analyzed a comprehensive dataset of major power outages in the U.S. from January 2000 to July 2016 to identify the correlation between weather conditions and power outage durations, focusing specifically on the impact of colder weather on the length of outages.
 - Conducted extensive data cleaning and exploratory data analysis to refine the dataset for relevant variables, implemented hypothesis testing to examine the relationship between power outage durations and cold weather, and communicated findings through clear insights.
 - Utilized statistical methods and permutation tests to validate the hypothesis that colder weather leads to longer power outage durations, contributing to the development of strategies for improving infrastructure resilience and emergency response during adverse weather conditions.
+
+---
 
 ### [Covid Cases Per Population By Country](https://github.com/Dsilva019/DSC106-Project3)
 ##### [  Visit the Webpage Here!](https://dsilva019.github.io/DSC106-Project3/)
