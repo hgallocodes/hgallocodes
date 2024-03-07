@@ -8,10 +8,7 @@
 
 ### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
-- <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
-- <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python
-- <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> SciKit Learn
-- <img alt="Tools | Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" /> Plotly
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" /> 
 
 <h2>📊 Data Science Projects:</h2>
 
