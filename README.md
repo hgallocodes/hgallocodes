@@ -13,7 +13,7 @@
 <h2>📊 Data Science Projects:</h2>
 
 ### [The Impact of the COVID-19 Pandemic on Air Quality in San Diego](https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb)
-<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> 
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> 
 
 ### [Does Colder Weather Lead to Longer Power Outages?](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/)
@@ -22,9 +22,7 @@
 
 ### [Covid Cases Per Population By Country](https://github.com/Dsilva019/DSC106-Project3)
 ##### [  Visit the Webpage Here!](https://dsilva019.github.io/DSC106-Project3/)
-- <img alt="Tools | JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> JavaScript
-- <img alt="Tools | D3" width="22px" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" /> D3
-- <img alt="Tools | Svelte" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" /> Svelte
+<img alt="Tools | JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> <img alt="Tools | Svelte" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" /> <img alt="Tools | D3" width="22px" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" /> 
 
 
 <h2> 🤳 Connect with me:</h2>
