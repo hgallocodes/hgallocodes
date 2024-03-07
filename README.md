@@ -2,7 +2,7 @@
 
 <h2>🤖 Machine Learning Projects:</h2>
 
-### [Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)<br/>
+#### [Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)<br/>
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
 - Cleaned and merged FIFA Datasets (10,000 observations and 4 features) using Python and JupyterNotebook.
 - Created data visualizations that would aid in the statistical analysis and determination of optimal variables to input into the KNN-algorithm using Pandas and NumPy.
@@ -11,7 +11,7 @@
 
 ---
 
-### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
+#### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" /> 
 - Developed and fine-tuned a k-Nearest Neighbors (k-NN) regression model to predict the durations of power outages based on influential factors like cause, geography, and population metrics, using a dataset that included detailed information on past power outage events.
@@ -20,14 +20,14 @@
 
 <h2>📊 Data Science Projects:</h2>
 
-### [The Impact of the COVID-19 Pandemic on Air Quality in San Diego](https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb)
+#### [The Impact of the COVID-19 Pandemic on Air Quality in San Diego](https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> 
 - Cleaned and merged Environmental Protection Agency (EPA) datasets from 2016 to 2021 (15,000 observations and 4 features) using Python and JupyterNotebook.
 - Created line plots that would portray trends of NO2 over time and performed statistical analysis including linear regression on these datasets using Pandas, Matplotlib, and Statsmodel.
 
 ---
 
-### [Does Colder Weather Lead to Longer Power Outages?](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
+#### [Does Colder Weather Lead to Longer Power Outages?](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> 
 - Analyzed a comprehensive dataset of major power outages in the U.S. from January 2000 to July 2016 to identify the correlation between weather conditions and power outage durations, focusing specifically on the impact of colder weather on the length of outages.
@@ -36,7 +36,7 @@
 
 ---
 
-### [Covid Cases Per Population By Country](https://github.com/Dsilva019/DSC106-Project3)
+#### [Covid Cases Per Population By Country](https://github.com/Dsilva019/DSC106-Project3)
 ##### [  Visit the Webpage Here!](https://dsilva019.github.io/DSC106-Project3/)
 <img alt="Tools | JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> <img alt="Tools | Svelte" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" /> <img alt="Tools | D3" width="22px" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" /> 
 - Developed an interactive globe, using JavaScript and D3, that allows the user to hover over countries and reveal its COVID-19 cases, GDP, and population.
