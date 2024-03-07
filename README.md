@@ -4,17 +4,16 @@
 
 ### [Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)<br/>
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
-- Cleaned and merged FIFA Datasets (10,000 observations and 4 features) using Python and JupyterNotebook.
-- Created data visualizations that would aid in the statistical analysis and determination of optimal variables to input into the KNN-algorithm using Pandas and NumPy.
-- Optimized KNN-algorithm by testing different K values in order to obtain the most accurate predictions possible using Sci-Kit Learn.
-- Compared predicted values with true values and determined which players were being underpaid or overpaid.
+- Developed a K-Nearest Neighbors model aimed at predicting future contracts of soccer players based on a comprehensive set of variables including performance statistics, age, and market potential.
+- Employed Python for data manipulation and analysis, leveraging libraries such as Pandas and Numpy for data cleaning and merging, ensuring the reliability of the dataset used for model training and validation.
+- Utilized SciKit-Learn to implement a KNN model, analyzing player data to forecast key contract elements like transfer value and salary, enhancing predictive accuracy and relevance for real-world applications.
 
 ### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" /> 
-- Developed a K-Nearest Neighbors model aimed at predicting future contracts of soccer players based on a comprehensive set of variables including performance statistics, age, and market potential.
-- Employed Python for data manipulation and analysis, leveraging libraries such as Pandas and Numpy for data cleaning and merging, ensuring the reliability of the dataset used for model training and validation.
-- Utilized SciKit-Learn to implement a KNN model, analyzing player data to forecast key contract elements like transfer value and salary, enhancing predictive accuracy and relevance for real-world applications.
+- Developed and fine-tuned a k-Nearest Neighbors (k-NN) regression model to predict the durations of power outages based on influential factors like cause, geography, and population metrics, using a dataset that included detailed information on past power outage events.
+- Conducted rigorous data cleaning and exploratory data analysis to identify key predictors, manage outliers, and ensure data quality, which included encoding categorical variables and selecting relevant quantitative features for model training.
+- Evaluated the model's performance using root mean square error (RMSE) and R-squared metrics, performed a fairness analysis comparing predictions across different U.S. regions, and refined the model by incorporating features like peak energy consumption hours and population metrics to improve prediction accuracy.
 
 <h2>📊 Data Science Projects:</h2>
 
