@@ -3,8 +3,7 @@
 <h2>🤖 Machine Learning Projects:</h2>
 
 ### [Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)<br/>
-<img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> 
-<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
