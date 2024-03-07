@@ -20,8 +20,9 @@
 
 ### [The Impact of the COVID-19 Pandemic on Air Quality in San Diego](https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> 
-- Cleaned and merged Environmental Protection Agency (EPA) datasets from 2016 to 2021 (15,000 observations and 4 features) using Python and JupyterNotebook.
-- Created line plots that would portray trends of NO2 over time and performed statistical analysis including linear regression on these datasets using Pandas, Matplotlib, and Statsmodel.
+- Conducted in-depth data analysis for a comprehensive study on the impact of COVID-19 on air quality in San Diego County, utilizing Python, pandas, and NumPy for data cleaning and merging, and Matplotlib and Seaborn for data visualization.
+- Applied statistical expertise to investigate correlations between pandemic trends and NO2 levels using linear regression models in Python, interpreting results to establish a nuanced understanding of the pandemic's environmental effects.
+- Collaborated within a multidisciplinary team, contributing to research, data interpretation, and ethical analysis, leveraging communication and technical skills to ensure the project's success and validity.
 
 ### [Does Colder Weather Lead to Longer Power Outages?](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/)
