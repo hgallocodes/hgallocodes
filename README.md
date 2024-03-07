@@ -13,10 +13,7 @@
 <h2>📊 Data Science Projects:</h2>
 
 ### [The Impact of the COVID-19 Pandemic on Air Quality in San Diego](https://github.com/COGS108/Group062-Wi22/blob/master/FinalProjectGroup062-Wi22.ipynb)
-- <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
-- <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python
-- <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> Numpy
-- <img alt="Tools | Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> Matplotlib
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" /> 
 
 ### [Does Colder Weather Lead to Longer Power Outages?](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/)
