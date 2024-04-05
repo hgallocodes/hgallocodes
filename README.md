@@ -36,6 +36,14 @@
 - Developed an interactive globe, using JavaScript and D3, that allows the user to hover over countries and reveal its COVID-19 cases, GDP, and population.
 - Automated the visualization to spin at a constant rate and programmed it to give the user the ability to zoom in and out of countries as well as pan from one side to the other.
 
+### [E-Bikes: Public Perceptions and Policy Analysis](https://drive.google.com/file/d/1RBF63z-ztmXkY_Ycpy-cUgj0QCB4qIvk/view?mc_cid=009d028e82&mc_eid=288bb3fb40 )
+<img alt="Tools | JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> <img alt="Tools | Svelte" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" /> <img alt="Tools | D3" width="22px" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" /> 
+- Analyzed large datasets to find trends and perform statistical analysis on eBike accidents in the County of San Diego utilizing Python, Pandas, and Numpy packages and visualized findings on Tableau.
+- Executed literature studies on eBike safety, and synthesized key research findings to assess if there is a greater accident-to-user ratio in eBikes than in bicycles.
+- Revised and improved newsletter surveys with a focus on obtaining valuable feedback from nonprofit organizations and medical institutions to meticulously assess the health-related benefits and associated costs attributed to using eBikes by riders.
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Hector Gallo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
