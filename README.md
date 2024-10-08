@@ -43,7 +43,7 @@
 - Revised and improved newsletter surveys with a focus on obtaining valuable feedback from nonprofit organizations and medical institutions to meticulously assess the health-related benefits and associated costs attributed to using eBikes by riders.
   
 ### [Music Database and Recommendation System](https://github.com/hgallocodes/MusicPlaylist/tree/main)
-<img alt="Tools | Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+<img alt="Tools | Java" width="50px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 
 - Developed a music management system to store, organize, and recommend songs, using Java data structures for efficient categorization and CSV file integration.
 - Built a recommendation engine to analyze user data and generate personalized song suggestions by tracking listening habits and song attributes.
