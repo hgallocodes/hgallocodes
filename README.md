@@ -41,6 +41,14 @@
 - Analyzed large datasets to find trends and perform statistical analysis on eBike accidents in the County of San Diego utilizing Python, Pandas, and Numpy packages and visualized findings on Tableau.
 - Executed literature studies on eBike safety, and synthesized key research findings to assess if there is a greater accident-to-user ratio in eBikes than in bicycles.
 - Revised and improved newsletter surveys with a focus on obtaining valuable feedback from nonprofit organizations and medical institutions to meticulously assess the health-related benefits and associated costs attributed to using eBikes by riders.
+  
+### [Music Database and Recommendation System] (https://github.com/hgallocodes/MusicPlaylist/tree/main)
+<img alt="Tools | Python" width="22px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+- Developed a music management system to store, organize, and recommend songs, using Java data structures for efficient categorization and CSV file integration.
+- Built a recommendation engine to analyze user data and generate personalized song suggestions by tracking listening habits and song attributes.
+- Applied object-oriented design, creating PlayableItem objects for sorting and comparison based on duration and popularity.
+- Collaborated on file I/O, data parsing, and recommendation algorithms to ensure seamless integration of music database, playlist management, and user preferences.
+
 
 
 
