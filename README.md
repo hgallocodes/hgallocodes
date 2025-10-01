@@ -2,6 +2,12 @@
 
 <h2>🤖 Machine Learning Projects:</h2>
 
+### [Machine Learning–Powered Flight Delay Predictor](https://github.com/hgallocodes/flight_delay_app)<br/>
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+- Designed and deployed a machine learning pipeline using XGBoost to predict flight delays at LAX, integrating historical flight records (2021–2024) with local weather and holiday data to capture seasonal and operational patterns.
+- Developed an interactive Dash web application that guides users through airline selection, destination input, and flight details entry, delivering real-time delay probabilities via visualizations including gauges, summary tables, and route maps.
+- Applied Python data engineering techniques (Pandas, NumPy, Scikit-Learn) for dataset preparation, feature engineering, and model validation, ensuring accurate predictions and actionable insights for travelers and analysts.
+
 ### [Using K-Nearest Neighbors Model to Predict Soccer Players' Values in the Market](https://github.com/COGS118A/Group018-Sp22/blob/main/COGS%20118A%20Final%20Project%20Report%20.ipynb)<br/>
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
 - Developed a K-Nearest Neighbors model aimed at predicting future contracts of soccer players based on a comprehensive set of variables including performance statistics, age, and market potential.
